@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ethan 👋
 
-<!--
-**ethwsec/ethwsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student at the University of North Texas, focused on security operations and networking.
 
-Here are some ideas to get you started:
+### 🔭 Currently
+- Studying for **CompTIA Network+**
+- Building a home security lab with Raspberry Pis and a Proxmox server
+- Practicing on TryHackMe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+**Languages:** Python, C, TypeScript  
+**Systems:** Linux, Raspberry Pi OS  
+**Learning:** Network security, Linux hardening, SIEM, packet analysis
+
+### 📂 Projects
+- **Pi Hardening:** Securing a Raspberry Pi 5 server and measuring results with a Lynis audit *(in progress)*
+
+### 📫 Connect
+- LinkedIn: [Ethan Williams](https://www.linkedin.com/in/ethan-williams-7203a63aa/)
+- Email: ethwsec@pm.me
